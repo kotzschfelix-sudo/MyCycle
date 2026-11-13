@@ -1,0 +1,14 @@
+{
+  "name": "MyCycle – MyDigital",
+  "short_name": "MyCycle",
+  "description": "Dein privater Perioden- und Zykluskalender.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8fc",
+  "theme_color": "#f8eef8",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
